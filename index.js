@@ -5,4 +5,4 @@ let welcomeMessage= "Welcome to Flatbook, ";
 
 welcomeMessage=welcomeMessage+currentUser+"!";
 
-const excitedWelcomeMessage=welcomeMessage;
+const excitedWelcomeMessage="WELCOME TO FLATBOOK, GRACE HOPPER!";
