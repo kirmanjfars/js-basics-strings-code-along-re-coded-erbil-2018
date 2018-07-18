@@ -6,3 +6,4 @@ let welcomeMessage= "Welcome to Flatbook, ";
 welcomeMessage=welcomeMessage+currentUser+"!";
 
 const excitedWelcomeMessage="WELCOME TO FLATBOOK, GRACE HOPPER!";
+const shortGreeting="Welcome, "+currentUser+"!";
